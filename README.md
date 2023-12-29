@@ -8,7 +8,11 @@ in order to achieve the highest accuracy possible.
 
 # Link of report
 
+## short report
 https://drive.google.com/file/d/17UxmS3fb7bmtx1fW5K0zjslwcJtF8z4a/view?usp=drive_link
+
+## Long version
+https://drive.google.com/file/d/1H2TN6ZnueOsv9U5crSXUC6Xj0hWDg1ld/view?usp=drive_link
 
 # Explanation
 
